@@ -8,3 +8,4 @@ IRC_PORT=6697
 IRC_NICK=nick
 # Risk
 IRC_PASS=irc_pass
+phone=+91-9999999999
